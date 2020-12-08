@@ -1807,12 +1807,12 @@ msgstr ""
 #: gcc/templates/gcc/resources.html:39
 msgid ""
 "\n"
-"        If you speak a bit of English, Codeacademy is a good resource to "
+"        If you speak a bit of English, Codecademy is a good resource to "
 "start programming.\n"
 "      "
 msgstr ""
 "\n"
-"Si tu parles un peu anglais, Codeacademy est une bonne ressource pour te "
+"Si tu parles un peu anglais, Codecademy est une bonne ressource pour te "
 "lancer dans la programmation."
 
 #: gcc/templates/gcc/resources.html:45
